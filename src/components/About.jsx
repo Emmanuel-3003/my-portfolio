@@ -38,7 +38,7 @@ const About = () => {
           <article className="info-card">
             <Code2 size={27} />
             <h3>Backend Development</h3>
-            <p>Java, Spring Boot, REST APIs and Spring Data JPA.</p>
+            <p>Java, Spring Boot, REST APIs, Spring Data JPA & Spring Security.</p>
           </article>
 
           <article className="info-card">

@@ -1,6 +1,7 @@
 
 import { useState } from "react";
 import { Menu, X, Code2 } from "lucide-react";
+import { FcEngineering } from "react-icons/fc";
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -21,7 +22,7 @@ const Navbar = () => {
         onClick={() => setMenuOpen(false)}
       >
         <Code2 size={24} />
-        <span>Emmanuel<span className="accent">.dev</span></span>
+        <span>Emmanuel Gabriel | Software Engineer</span>
       </a>
 
       <button

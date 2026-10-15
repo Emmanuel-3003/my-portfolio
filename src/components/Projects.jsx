@@ -11,6 +11,8 @@ const projects = [
       "Java",
       "Spring Boot",
       "Spring Data JPA",
+      "Spring Security",
+      "JWT",
       "PostgreSQL",
       "React",
     ],
@@ -28,19 +30,20 @@ const projects = [
       "Spring Data JPA",
       "MySQL",
       "Spring Security",
+      "JWT",
     ],
     github: "https://github.com/Emmanuel-3003/Bank-App",
     live: "",
   },
-  {
-    title: "Personal Portfolio",
-    status: "In Progress",
-    description:
-      "A responsive personal website to showcase my technical skills, development projects and professional experience.",
-    technologies: ["React", "JavaScript", "CSS", "Netlify"],
-    github: "https://github.com/Emmanuel-3003/Portfolio",
-    live: "",
-  },
+  // {
+  //   title: "Personal Portfolio",
+  //   status: "In Progress",
+  //   description:
+  //     "A responsive personal website to showcase my technical skills, development projects and professional experience.",
+  //   technologies: ["React", "JavaScript", "CSS", "Netlify"],
+  //   github: "https://github.com/Emmanuel-3003/Portfolio",
+  //   live: "",
+  // },
 ];
 
 const Projects = () => {

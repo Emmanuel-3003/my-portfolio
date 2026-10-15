@@ -11,6 +11,7 @@ const skillGroups = [
       "Spring MVC",
       "Spring Data JPA",
       "Spring Security",
+      "JWT",
       "REST APIs",
       "Hibernate",
     ],
@@ -23,11 +24,13 @@ const skillGroups = [
     title: "Tools & Database",
     skills: [
       "PostgreSQL",
+      "MySQL",
       "Git",
       "GitHub",
       "Postman",
       "Maven",
       "UNIX",
+      "IntelliJ"
     ],
   },
 ];
