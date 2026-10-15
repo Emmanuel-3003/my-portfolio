@@ -17,9 +17,10 @@ const Hero = () => {
         <h2>Java Full Stack Developer</h2>
 
         <p className="hero-description">
-          I work in application support and am developing my skills
-          in Java, Spring Boot, REST APIs, SQL and React by building
-          full-stack applications.
+          I’m a Java Full Stack Developer aspirant with professional IT experience 
+          in application support, currently building full-stack applications using Java, 
+          Spring Boot, REST APIs, SQL, and React. I’m actively seeking opportunities to 
+          contribute to real-world software development projects and grow as a developer..
         </p>
 
         <div className="hero-buttons">

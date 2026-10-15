@@ -16,24 +16,30 @@ const Experience = () => {
           </div>
 
           <div className="timeline-content">
-            <span className="timeline-date">May 2025 – Present</span>
-            <h3>Associate System Engineer</h3>
-            <h4>Tata Consultancy Services (TCS)</h4>
+            <span className="timeline-date">May 2025 – Oct 2026</span>
+              <h3>Associate System Engineer</h3>
+              <h4>Tata Consultancy Services (TCS)</h4>
 
-            <ul>
-              <li>
-                Support enterprise banking applications in an
-                Application Management Services environment.
-              </li>
-              <li>
-                Investigate production incidents using logs,
-                SQL queries and UNIX commands.
-              </li>
-              <li>
-                Collaborate with relevant teams to troubleshoot
-                transaction issues and support application stability.
-              </li>
-            </ul>
+              <ul>
+                <li>
+                  Investigated and resolved production incidents in enterprise 
+                  banking applications using SQL queries, application logs, API 
+                  responses, and UNIX commands.
+                </li>
+                <li>
+                  Worked on Spring Boot banking application change requests involving 
+                  entity modifications, REST API updates, and service-layer logic.
+                </li>
+                <li>
+                  Supported a Regulatory Reporting Tool (RRT) by troubleshooting application 
+                  defects and validating report data for accuracy.
+                </li>
+                <li>
+                  Collaborated with Development, QA, and Infrastructure teams in an 
+                  Application Management Services (AMS) environment to resolve issues 
+                  and maintain application stability.
+                </li>
+              </ul>
           </div>
         </article>
 

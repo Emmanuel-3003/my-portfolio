@@ -14,23 +14,23 @@ const About = () => {
           <h3>From supporting applications to building them.</h3>
 
           <p>
-            I work as an Associate System Engineer in application
-            support, where I help investigate production issues,
-            analyze logs, use SQL for troubleshooting, and
-            collaborate with teams to maintain application stability.
+            I have experience as an Associate System Engineer in application support, 
+            where I worked on investigating production issues, 
+            analyzing application logs, using SQL for troubleshooting, and 
+            collaborating with cross-functional teams to maintain application stability.
           </p>
 
           <p>
-            Alongside my professional responsibilities, I'm learning
-            Java full-stack development with Spring Boot and React.
-            I enjoy understanding how backend services, databases,
-            APIs and frontend applications work together.
+             I am currently focused on transitioning into software development, 
+             strengthening my skills in Java, Spring Boot, REST APIs, SQL, and 
+             React through hands-on projects. I enjoy building applications and understanding how 
+             backend services, databases, and frontend technologies work together.
           </p>
 
           <p>
-            My goal is to grow into a software development role
-            where I can contribute to building reliable, useful
-            applications.
+             I am actively seeking opportunities as a Java Developer or Java Full Stack Developer, 
+             where I can apply my technical knowledge, build scalable applications, learn from 
+             experienced teams, and grow as a software developer.
           </p>
         </div>
 
