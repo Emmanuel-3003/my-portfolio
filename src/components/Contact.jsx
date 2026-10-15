@@ -20,11 +20,8 @@ const Contact = () => {
           building useful applications.
         </p>
 
-        <a
-          className="btn btn-primary"
-          href={`mailto:${email}?subject=Software%20Development%20Opportunity`}
-        >
-          <Mail size={18} /> Contact Me <Send size={17} />
+        <a href={`mailto:${email}`} className="email-link">
+          {email}
         </a>
 
         <div className="social-links contact-socials">
