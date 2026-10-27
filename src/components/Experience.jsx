@@ -1,4 +1,3 @@
-
 import { BriefcaseBusiness, GraduationCap } from "lucide-react";
 
 const Experience = () => {
@@ -17,29 +16,41 @@ const Experience = () => {
 
           <div className="timeline-content">
             <span className="timeline-date">May 2025 – Oct 2026</span>
-              <h3>Associate System Engineer</h3>
-              <h4>Tata Consultancy Services (TCS)</h4>
+            <h3>Associate System Engineer</h3>
+            <h4>Tata Consultancy Services (TCS)</h4>
 
-              <ul>
-                <li>
-                  Investigated and resolved production incidents in enterprise 
-                  banking applications using SQL queries, application logs, API 
-                  responses, and UNIX commands.
-                </li>
-                <li>
-                  Worked on Spring Boot banking application change requests involving 
-                  entity modifications, REST API updates, and service-layer logic.
-                </li>
-                <li>
-                  Supported a Regulatory Reporting Tool (RRT) by troubleshooting application 
-                  defects and validating report data for accuracy.
-                </li>
-                <li>
-                  Collaborated with Development, QA, and Infrastructure teams in an 
-                  Application Management Services (AMS) environment to resolve issues 
-                  and maintain application stability.
-                </li>
-              </ul>
+            <ul>
+              <li>
+                Developed and modified REST endpoints, entities, and
+                service-layer logic across the controller, service, and
+                repository layers of Spring Boot banking applications.
+              </li>
+              <li>
+                Used Spring Data JPA and Hibernate for database operations
+                and added request validation to API inputs.
+              </li>
+              <li>
+                Built fixes and enhancements for the reporting features of a
+                Regulatory Reporting Tool (RRT) for a banking client.
+              </li>
+              <li>
+                Debugged defects using application logs, API responses, and
+                SQL root-cause analysis, cutting average incident-triage time
+                by 30%.
+              </li>
+              <li>
+                Resolved 15-20 production incidents per week within SLA
+                timelines.
+              </li>
+              <li>
+                Tested every change with Postman and unit tests before
+                release.
+              </li>
+              <li>
+                Delivered work through Agile sprints, collaborating with
+                Development, QA, and 4 cross-functional teams.
+              </li>
+            </ul>
           </div>
         </article>
 

@@ -1,4 +1,3 @@
-
 import { Code2, Database, Wrench } from "lucide-react";
 
 const About = () => {
@@ -11,26 +10,31 @@ const About = () => {
 
       <div className="about-grid">
         <div className="about-text">
-          <h3>From supporting applications to building them.</h3>
+          <h3>Java backend developer building secure, reliable systems.</h3>
 
           <p>
-            I have experience as an Associate System Engineer in application support, 
-            where I worked on investigating production issues, 
-            analyzing application logs, using SQL for troubleshooting, and 
-            collaborating with cross-functional teams to maintain application stability.
+            I'm a Java Backend Developer with 1+ year of experience working on
+            Spring Boot applications for banking clients at TCS. I developed and
+            modified REST APIs, entities, and service-layer logic, and used SQL
+            root-cause analysis to debug production issues, cutting average
+            incident-triage time by 30%.
           </p>
 
           <p>
-             I am currently focused on transitioning into software development, 
-             strengthening my skills in Java, Spring Boot, REST APIs, SQL, and 
-             React through hands-on projects. I enjoy building applications and understanding how 
-             backend services, databases, and frontend technologies work together.
+            Working on live banking systems showed me how backend code behaves in
+            production, and it shapes how I write code today. Outside of work, I
+            build my own projects: a banking API with JWT security and
+            double-entry transfers, and an e-commerce backend with role-based
+            access control. Both use Spring Boot, Spring Security, and JPA/Hibernate
+            with MySQL and PostgreSQL. I've also built React frontends and deployed
+            my work using Docker.
           </p>
 
           <p>
-             I am actively seeking opportunities as a Java Developer or Java Full Stack Developer, 
-             where I can apply my technical knowledge, build scalable applications, learn from 
-             experienced teams, and grow as a software developer.
+            I'm open to Java Developer and Java Full Stack Developer roles where I
+            can build scalable backend systems, learn from experienced teams, and
+            keep growing as a software developer. I'm available to join
+            immediately.
           </p>
         </div>
 
@@ -38,19 +42,28 @@ const About = () => {
           <article className="info-card">
             <Code2 size={27} />
             <h3>Backend Development</h3>
-            <p>Java, Spring Boot, REST APIs, Spring Data JPA & Spring Security.</p>
+            <p>
+              Java, Spring Boot, REST APIs, Spring Security (JWT, RBAC) &
+              Spring Data JPA.
+            </p>
           </article>
 
           <article className="info-card">
             <Database size={27} />
             <h3>Database & SQL</h3>
-            <p>SQL queries, relational data and persistence.</p>
+            <p>
+              MySQL, PostgreSQL, Hibernate, schema design and SQL
+              troubleshooting.
+            </p>
           </article>
 
           <article className="info-card">
             <Wrench size={27} />
-            <h3>Problem Solving</h3>
-            <p>Log analysis, incident investigation and troubleshooting.</p>
+            <h3>Debugging & Delivery</h3>
+            <p>
+              Log analysis, root-cause analysis, Postman testing, Git, Maven &
+              Docker.
+            </p>
           </article>
         </div>
       </div>
